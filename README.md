@@ -74,7 +74,7 @@ Validar a funcionalidade de login, garantindo autenticação com dados válidos 
 
 | ID da História | Funcionalidade             | Tipo de Teste     | Status       | QA Responsável | Observações                     |
 |----------------|----------------------------|-------------------|--------------|----------------|---------------------------------|
-| US-101         | Login com usuário válido   | Manual / Automat. | ✅ Passou     | Juliana        | Validado em QA                 |
-| US-102         | Recuperação de senha       | Manual            | 🚧 Em teste   | Leonardo       | Falha no envio de e-mail       |
-| US-103         | Cadastro de novo usuário   | Automatizado      | ❌ Falhou     | Juliana        | Bug #321 aberto no Jira        |
-| US-104         | Validação de campos obrig. | Manual            | ⏳ Aguardando | Leonardo       | Aguardando deploy da feature   |
+| US-101         | Login com usuário válido   | Manual / Automat. | Passou     | Juliana        | Validado em QA                 |
+| US-102         | Recuperação de senha       | Manual            | Em teste   | Leonardo       | Falha no envio de e-mail       |
+| US-103         | Cadastro de novo usuário   | Automatizado      | Falhou     | Juliana        | Bug #321 aberto no Jira        |
+| US-104         | Validação de campos obrig. | Manual            | Aguardando | Leonardo       | Aguardando deploy da feature   |
