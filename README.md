@@ -28,7 +28,7 @@ Validar a funcionalidade de login, garantindo autenticação com dados válidos 
 
 ---
 
-## 4. Critérios de Aceitação / Pronto para Testar
+## 4. Critérios de Aceitação / Pronto para Testar?
 - Histórias com critérios de aceitação revisados pelo PO
 - Feature desenvolvida e mergeada na branch `develop`
 - Build de CI executado com sucesso
