@@ -70,7 +70,7 @@ Validar a funcionalidade de login, garantindo autenticação com dados válidos 
 
 ---
 
-## 9. 🔄 Status de Execução dos Testes
+## 9. Status de Execução dos Testes
 
 | ID da História | Funcionalidade             | Tipo de Teste     | Status       | QA Responsável | Observações                     |
 |----------------|----------------------------|-------------------|--------------|----------------|---------------------------------|
